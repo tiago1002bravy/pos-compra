@@ -115,6 +115,68 @@ A página foi desenvolvida seguindo princípios de alta conversão:
 - **Call-to-action claro**: Botão proeminente
 - **Credibilidade**: Preços riscados e garantias
 
+## 📝 Copy Completa da Página
+
+### Headline e Benefícios
+
+Desbloqueie os templates restantes
+
+**Toda a sua empresa 100% automatizada** com automações, IA e dashboards.
+
+Além do comercial, você pode automatizar todo o seu operacional, administrativo com IA e organizar TODOS os seus processos em um único local.
+
+Se você quer:
+- Definir processos inteligentes
+- Automatizar tarefas operacionais
+- Ter a IA pensando em operando em todas as áreas do negócio
+
+Quero automatizar tudo com IA
+
+---
+
+### O Que Você Vai Receber (Liberado Imediatamente):
+
+- **Templates de Processos no ClickUp**
+  - R$497
+  - Todos os departamentos da sua empresa estruturados por processos.
+
+- **Template de Automações no Make**
+  - R$297
+  - Fluxos de Automação 100% Prontos no Make - Só Conectar e Rodar
+
+- **Template de Automações no n8n**
+  - R$297
+  - Prefere o n8n? As Automações Já Estão Configuradas. Plug & Play.
+
+- **Estruturas testadas com IA** (BÔNUS)
+  - Estruturas Inteligentes com IA - Respostas Automáticas, Aceleração de Tarefas e Processos
+
+- **Agente de SDR com IA** (BÔNUS)
+  - SDR virtual com IA para qualificação, follow-up e agendamento automático de leads.
+
+---
+
+### Preço e Urgência
+
+Valor real: ~~R$1.091~~
+Hoje: **Só R$297**
+(Essa condição NÃO aparece fora desta página.)
+
+🚨 Importante:
+- Se você fechar esta aba… acabou a oportunidade.
+- Não perca mais tempo criando tudo sozinho… tenha agora mesmo os mesmos templates que usamos com nossos clientes e alunos avançados.
+
+---
+
+### Call to Action
+
+QUERO AUTOMATIZAR MINHA EMPRESA AGORA
+(Acesso imediato + Garantia de 7 dias)
+
+---
+
+© 2024 - Todos os direitos reservados
+
 ---
 
 **Desenvolvido para máxima conversão com foco em urgência e oportunidade única!** 🚀 
