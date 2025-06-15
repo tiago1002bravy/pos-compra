@@ -808,4 +808,117 @@ body {
     .current-price .price {
         font-size: 2.5rem;
     }
+
+    .product-flex {
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: space-between;
+        gap: 32px;
+    }
+    .product-copy {
+        width: 55%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: left;
+    }
+    .product-image {
+        width: 45%;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    .product-image img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+/* Layout flexível para o card do ClickUp */
+.product-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+.product-copy {
+    width: 100%;
+}
+.product-image {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Seção Split Pipeline de Vendas */
+.split-section {
+  background: #fafafa;
+  padding: 48px 0;
+}
+.split-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 32px;
+}
+.split-copy {
+  flex: 1;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.split-copy h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+  color: #222;
+}
+.split-copy p {
+  font-size: 1.15rem;
+  color: #555;
+  line-height: 1.6;
+}
+.split-image {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.split-image img {
+  max-width: 100%;
+  border-radius: 18px;
+  box-shadow: 0 6px 32px rgba(0,0,0,0.10);
+  background: #fff;
+}
+
+@media (min-width: 900px) {
+  .split-content {
+    flex-direction: row;
+    gap: 48px;
+  }
+  .split-copy, .split-image {
+    max-width: 50%;
+  }
+}
+
+/* Destaque para headline e badge */
+.headline-highlight {
+    display: inline-block;
+    background: #fef2f2;
+    color: #dc2626;
+    font-weight: 700;
+    font-size: 0.95rem;
+    padding: 6px 18px;
+    border-radius: 8px;
+    margin-bottom: 22px;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 8px rgba(220,38,38,0.04);
+}
+.headline-red {
+    color: #dc2626;
+    font-weight: 800;
+    letter-spacing: 0.5px;
 } 
